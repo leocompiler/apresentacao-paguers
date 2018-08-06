@@ -18,6 +18,11 @@ h3 {
 
 h5 {
     font-size: 3rem;
+    color: #fff;
+    letter-spacing: 0px;
+    font-weight: normal;
+    -webkit-font-smoothing: antialiased;
+     font-weight: 600;
 }
 
 .flow-text {
