@@ -15,9 +15,12 @@ h3 {
     font-size: 6rem;
 }
 
+.slider .slides li img {
+    background-position: top !important;
+}
 
 h5 {
-    font-size: 3rem;
+    font-size: 4rem;
     color: #fff;
     letter-spacing: 0px;
     font-weight: normal;
@@ -31,7 +34,7 @@ h5 {
 .sub-titulo {
     font-size: 2rem;
 
-    background: #0000004a;
+    background: #000000eb;
     padding: 10px;
 
 }
